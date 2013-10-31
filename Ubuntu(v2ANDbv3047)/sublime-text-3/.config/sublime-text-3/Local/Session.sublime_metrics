@@ -1,0 +1,16 @@
+{
+	"licensed": false,
+	"packages":
+	[
+		"CTags",
+		"Package Control",
+		"Theme - Soda",
+		"Vintageous"
+	],
+	"startup_sec": 0.592062,
+	"syntax":
+	{
+		"JSON": 16
+	},
+	"time": 1378230231
+}

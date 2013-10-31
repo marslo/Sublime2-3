@@ -1,0 +1,58 @@
+// Settings in here override those in "Default/Preferences.sublime-settings", and
+// are overridden in turn by file type specific settings.
+{
+	"ignored_packages": [],
+	"auto_indent": true,
+	"auto_upgrade_last_run": 1331660912,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"default_encoding": "GBK",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"draw_minimap_border": true,
+	"find_selected_text": true,
+	"font_face": "Monaco",
+	"font_size": 12.0,
+	"gutter": true,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"LaTeX",
+		"ASP",
+		"D",
+		"Scala",
+		"C#",
+		"RestructuredText",
+		"Makefile",
+		"OCaml",
+		"TCL",
+		"Graphviz",
+		"Lisp",
+		"Objective-C",
+		"Haskell",
+		"Matlab",
+		"ActionScript",
+		"ShellScript",
+		"Go",
+		"Clojure",
+		"Erlang",
+		"Markdown",
+		"R"
+	],
+	"repositories":
+	[
+		"https://bitbucket.org/sublimator/sublime-2-zencoding",
+		"http://sublime.wbond.net/repositories.json"
+	],
+	"repository_channels":
+	[
+		"http://sublime.wbond.net/repositories.json"
+	],
+	"soda_classic_tabs": true,
+	"tab_size": 4,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"vintage_ctrl_keys": false,
+	"vintage_start_in_command_mode": true
+}

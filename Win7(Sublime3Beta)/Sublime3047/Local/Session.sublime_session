@@ -1,0 +1,638 @@
+{
+	"folder_history":
+	[
+		"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts",
+		"/C/Marslo/Job/Codes/LotusNotesOpt/V3/Codes",
+		"/C/Program Files (x86)/Python27/Lib/site-packages/pythonwin/pywin",
+		"/C/Program Files (x86)/Python27/Lib/site-packages/IPython",
+		"/C/Users/jiaoolii/Desktop/test/ipython",
+		"/C/Program Files (x86)/Python27/Lib/site-packages/ipython-0.13.1-py2.7.egg-info",
+		"/C/Marslo/Study/My_Scripts",
+		"/C/Marslo/Job/Summa/Mpp/netact-mpp-lab-scripts"
+	],
+	"last_version": 3047,
+	"last_window_id": 13,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 714.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"pcin",
+						"Package Control: Install Package"
+					],
+					[
+						"pc li",
+						"Package Control: List Packages"
+					],
+					[
+						"pc re",
+						"Package Control: Remove Package"
+					],
+					[
+						"pcup",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"upda",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"pc u",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"pc up",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"packagecon in",
+						"Package Control: Install Package"
+					],
+					[
+						"package up",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"pre",
+						"Package Control: Remove Package"
+					],
+					[
+						"premove",
+						"Package Control: Remove Package"
+					],
+					[
+						"pi",
+						"Package Control: Install Package"
+					],
+					[
+						"pr",
+						"Permute Lines: Reverse"
+					],
+					[
+						"package insa",
+						"Preferences: Package Control Settings – Default"
+					]
+				],
+				"width": 386.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/CTags/Default.sublime-keymap",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Program Files (x86)/Python27/Lib/site-packages/pythonwin/pywin/scintilla/configui.py",
+				"/C/Program Files (x86)/Python27/Lib/site-packages/pythonwin/pywin/framework/editor/configui.py",
+				"/C/Program Files (x86)/Python27/Lib/site-packages/pythonwin/pywin/scintilla/config.py",
+				"/C/Program Files (x86)/Python27/Lib/site-packages/IPython/frontend/qt/console/console_widget.py",
+				"/C/Program Files (x86)/Python27/Lib/site-packages/IPython/frontend/terminal/console/interactiveshell.py",
+				"/C/Program Files (x86)/Python27/Lib/site-packages/IPython/frontend/qt/console/completion_plain.py",
+				"/C/Marslo/Study/My_Scripts/Python/Example/Office/Excel/ExcelBasicOpts.py",
+				"/C/Users/jiaoolii/Desktop/Sublime2_Config_Marslo/README.md",
+				"/C/Marslo/Job/Summa/Mpp/netact-mpp-lab-scripts/netact/netact/ci-lab.rb",
+				"/C/Marslo/Job/Summa/Mpp/netact-mpp-lab-scripts/netact/netact/common.rb",
+				"/C/Marslo/Job/Summa/Mpp/netact-mpp-lab-scripts/netact/netact/None",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/None",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
+			],
+			"find":
+			{
+				"height": 43.0
+			},
+			"find_in_files":
+			{
+				"height": 113.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"ctrl\\+left",
+					"left",
+					"home",
+					"    ",
+					"\\'\\-\\'*20",
+					"'-'*20",
+					"process Argus finished",
+					"Process Argus",
+					"process arugs",
+					"\\n'",
+					"\\n",
+					"HelpPy",
+					"ExecGlobal_SelectedLines",
+					"ConfigManager",
+					"config",
+					"font",
+					"fontname",
+					"font",
+					"fontname",
+					"font",
+					"0.13.5",
+					"0.13.4",
+					"0.13.3",
+					"0.13.2",
+					"version",
+					"font_metrics.width",
+					"font_size",
+					"window",
+					"windos",
+					"python",
+					"windows",
+					"windws",
+					"windows",
+					"console_widget",
+					"cursorsize",
+					"def test",
+					"\"}",
+					"def test"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 78.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 194.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 966.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 1596,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"pcin",
+						"Package Control: Install Package"
+					],
+					[
+						"pcre",
+						"Package Control: Remove Package"
+					],
+					[
+						"pc up",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"cmd",
+						"Set Syntax: Vintageous Command Line"
+					],
+					[
+						"pc in",
+						"Package Control: Install Package"
+					],
+					[
+						"pc li",
+						"Package Control: List Packages"
+					],
+					[
+						"pc re",
+						"Package Control: Remove Package"
+					],
+					[
+						"pcup",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"upda",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"pc u",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"packagecon in",
+						"Package Control: Install Package"
+					],
+					[
+						"package up",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"pre",
+						"Package Control: Remove Package"
+					],
+					[
+						"premove",
+						"Package Control: Remove Package"
+					],
+					[
+						"pi",
+						"Package Control: Install Package"
+					],
+					[
+						"pr",
+						"Permute Lines: Reverse"
+					],
+					[
+						"package insa",
+						"Preferences: Package Control Settings – Default"
+					]
+				],
+				"width": 386.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V3/Codes/autoAddAccount.py",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V3/Codes/winLotusNotes.py",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V3/Codes/processArugs.py",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/]",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/None",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V3/Codes/None",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/CTags/Default.sublime-keymap",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Program Files (x86)/Python27/Lib/site-packages/pythonwin/pywin/scintilla/configui.py",
+				"/C/Program Files (x86)/Python27/Lib/site-packages/pythonwin/pywin/framework/editor/configui.py",
+				"/C/Program Files (x86)/Python27/Lib/site-packages/pythonwin/pywin/scintilla/config.py",
+				"/C/Program Files (x86)/Python27/Lib/site-packages/IPython/frontend/qt/console/console_widget.py",
+				"/C/Program Files (x86)/Python27/Lib/site-packages/IPython/frontend/terminal/console/interactiveshell.py",
+				"/C/Program Files (x86)/Python27/Lib/site-packages/IPython/frontend/qt/console/completion_plain.py",
+				"/C/Marslo/Study/My_Scripts/Python/Example/Office/Excel/ExcelBasicOpts.py",
+				"/C/Users/jiaoolii/Desktop/Sublime2_Config_Marslo/README.md",
+				"/C/Marslo/Job/Summa/Mpp/netact-mpp-lab-scripts/netact/netact/ci-lab.rb",
+				"/C/Marslo/Job/Summa/Mpp/netact-mpp-lab-scripts/netact/netact/common.rb",
+				"/C/Marslo/Job/Summa/Mpp/netact-mpp-lab-scripts/netact/netact/None",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 43.0
+			},
+			"find_in_files":
+			{
+				"height": 113.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\": ",
+					"    ",
+					"},",
+					"jump ",
+					"ctrl\\+left",
+					"left",
+					"home",
+					"    ",
+					"\\'\\-\\'*20",
+					"'-'*20",
+					"process Argus finished",
+					"Process Argus",
+					"process arugs",
+					"\\n'",
+					"\\n",
+					"HelpPy",
+					"ExecGlobal_SelectedLines",
+					"ConfigManager",
+					"config",
+					"font",
+					"fontname",
+					"font",
+					"fontname",
+					"font",
+					"0.13.5",
+					"0.13.4",
+					"0.13.3",
+					"0.13.2",
+					"version",
+					"font_metrics.width",
+					"font_size",
+					"window",
+					"windos",
+					"python",
+					"windows",
+					"windws",
+					"windows",
+					"console_widget",
+					"cursorsize",
+					"def test",
+					"\"}",
+					"def test"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "C:\\Marslo\\Job\\Codes\\LotusNotesOpt\\V3\\Codes"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1596,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										473,
+										473
+									]
+								],
+								"settings":
+								{
+									"highlight_line": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"vintage":
+									{
+										"action": null,
+										"action_digits":
+										[
+										],
+										"cancel_action": false,
+										"expecting_register": false,
+										"expecting_user_input": false,
+										"mode": 2,
+										"motion": null,
+										"motion_digits":
+										[
+										],
+										"next_mode": 2,
+										"next_mode_command": null,
+										"register": null,
+										"stashed_action": null,
+										"user_action_input": null,
+										"user_input": null,
+										"user_motion_input": null,
+										"xpos": 60
+									}
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,2,3,-1,-1,-1,-1,790,1302,22,2284",
+			"project": "",
+			"replace":
+			{
+				"height": 78.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+				"vintage":
+				{
+					"_cmdline_cd": "C:\\Users\\jiaoolii\\AppData\\Roaming\\Sublime Text 3\\Packages\\User"
+				}
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 194.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 8,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

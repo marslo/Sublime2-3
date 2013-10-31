@@ -1,0 +1,9 @@
+[
+    { "keys": ["ctrl+q"], "command": "toggle_comment", "args": { "block": false } },
+    { "keys": ["ctrl+shift+q"], "command": "toggle_comment", "args": { "block": true } },
+    { "keys": ["ctrl+alt+q"], "command": "exit" },
+
+    { "keys": ["alt+left"], "command": "navigation_history_back"},
+    { "keys": ["alt+right"], "command": "navigation_history_forward"}
+
+]

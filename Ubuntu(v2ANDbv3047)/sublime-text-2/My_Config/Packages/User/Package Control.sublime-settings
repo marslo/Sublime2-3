@@ -1,0 +1,12 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"ConvertToUTF8",
+		"GBK Encoding Support",
+		"Package Control",
+		"SublimeCodeIntel",
+		"Theme - Soda",
+		"VintageEx"
+	]
+}

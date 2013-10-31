@@ -1,0 +1,14 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Abacus",
+		"ConvertToUTF8",
+		"CTags",
+		"GBK Encoding Support",
+		"GotoLastEdit",
+		"Navigation History",
+		"Package Control",
+		"Theme - Soda"
+	]
+}

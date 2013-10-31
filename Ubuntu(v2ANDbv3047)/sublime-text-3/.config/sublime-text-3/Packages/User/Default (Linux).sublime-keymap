@@ -1,0 +1,21 @@
+[
+    { "keys": [",", "x"], "command": "toggle_comment", "args": { "block": false } },
+    // { "keys": ["ctrl+shift+q"], "command": "toggle_comment", "args": { "block": true } },
+
+    { "keys": ["ctrl+alt+q"], "command": "exit" },
+
+    { "keys": ["ctrl+]"], "command": "navigate_to_definition" },
+    { "keys": ["ctrl+t"], "command": "jump_back" },
+
+    // move
+    { "keys": ["alt+b"], "command": "move", "args": {"by": "words", "forward": false} },
+    { "keys": ["alt+f"], "command": "move", "args": {"by": "word_ends", "forward": true} },
+    { "keys": ["alt+l"], "command": "next_view" },
+    { "keys": ["alt+h"], "command": "prev_view" },
+
+    { "keys": ["ctrl+e"], "command": "set_motion", "args": {"motion": "vi_dollar"}, "context": [{"key": "vi_mode_normal_or_visual"}] },
+    { "keys": ["ctrl+a"], "command": "set_motion", "args": {"motion": "vi_underscore"}, "context": [{"key": "vi_mode_normal_or_visual"}] },
+    // { "keys": ["ctrl+a"], "command": "set_action", "args": {"action": "vi_big_i"}, "context": [{"key": "setting.command_mode"}] },
+    // { "keys": ["ctrl+e"], "command": "set_action", "args": {"action": "vi_big_a"}, "context": [{"key": "vi_mode_normal_or_any_visual"}] },
+
+]

@@ -1,0 +1,532 @@
+{
+	"folder_history":
+	[
+		"/home/marslo/Study/Codes"
+	],
+	"last_version": 3047,
+	"last_window_id": 3,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 248.0,
+				"selected_items":
+				[
+					[
+						"pi",
+						"Package Control: Install Package"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"package con in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/marslo/Study/Codes/Python/LotusNotesOpt/V1/autoLotusNotes.py",
+					"settings":
+					{
+						"buffer_size": 1169,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/home/marslo/Study/Codes/Python/LotusNotesOpt/V1/lotusNotesSearch.py",
+					"settings":
+					{
+						"buffer_size": 6324,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 56.0,
+				"selected_items":
+				[
+					[
+						"packac remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"pc rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"PC INS	",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"pcup",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"pc up",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"package con in",
+						"Package Control: Install Package"
+					],
+					[
+						"package control: en",
+						"Package Control: Enable Package"
+					],
+					[
+						"pa remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"pcu",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"package control remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"pi",
+						"Package Control: Install Package"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 435.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"<binding key=\"alt+d,/[0-9]+/,w\" command=\"times $1 deleteWord right\"/>",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/marslo/Study/Codes/Python/LotusNotesOpt/V1/autoLotusNotes.py",
+				"/home/marslo/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/marslo/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/marslo/Study/Codes/Python/LotusNotesOpt/V1/lotusNotesSearch.py",
+				"/home/marslo/Study/Codes/Python/LotusNotesOpt/V3/Codes/processTempFile.py",
+				"/home/marslo/Study/Codes/Python/LotusNotesOpt/V3/Codes/processArugs.py",
+				"/home/marslo/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/marslo/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/marslo/.config/sublime-text-3/Packages/CTags/Default.sublime-keymap",
+				"/home/marslo/Study/Codes/Python/LotusNotesOpt/V3/Codes/winLotusNotes.py",
+				"/home/marslo/.config/sublime-text-3/Packages/Default/None",
+				"/home/marslo/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+				"/home/marslo/Study/Codes/Python/LotusNotesOpt/V3/Codes/processNewTempFile.py",
+				"/home/marslo/Study/Codes/Python/LotusNotesOpt/V3/Codes/processList.py",
+				"/home/marslo/.config/sublime-text-3/Packages/CTags/CTags.sublime-settings",
+				"/home/marslo/Study/Codes/Python/LotusNotesOpt/Extranet_Pronto_OSS_Munich_Editors_4",
+				"/home/marslo/Study/Codes/Java/Applet/Addition/AdditionApplet.java",
+				"/home/marslo/Study/Codes/Python/LotusNotesOpt/V3/Codes/autoAddAccount.py",
+				"/home/marslo/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/marslo/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/marslo/Study/Codes/Java/Applet/Addition/None",
+				"/home/marslo/Study/Codes/Java/HowTo/Welcome4.java",
+				"/home/marslo/Study/Codes/Java/HowTo/None",
+				"/home/marslo/.config/sublime-text-3/Packages/User/None"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 98.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"vi_mode_insert",
+					"vi_enter_insert_mode",
+					"    {",
+					"__error_authfaild",
+					"keys",
+					"    def __init__(self, dic_arguinfo, printflag):",
+					"\n		",
+					"file_exe",
+					"import",
+					"def a"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/home/marslo/Study/Codes"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/marslo/Study/Codes/Python/LotusNotesOpt/V1/autoLotusNotes.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1169,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"vintage":
+									{
+										"action": null,
+										"action_digits":
+										[
+										],
+										"cancel_action": false,
+										"expecting_register": false,
+										"expecting_user_input": false,
+										"mode": 2,
+										"motion": null,
+										"motion_digits":
+										[
+										],
+										"next_mode": 2,
+										"next_mode_command": null,
+										"register": null,
+										"stashed_action": null,
+										"user_action_input": null,
+										"user_input": null,
+										"user_motion_input": null,
+										"xpos": 0
+									}
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/marslo/Study/Codes/Python/LotusNotesOpt/V1/lotusNotesSearch.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6324,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"vintage":
+									{
+										"action": null,
+										"action_digits":
+										[
+										],
+										"cancel_action": false,
+										"expecting_register": false,
+										"expecting_user_input": false,
+										"mode": 2,
+										"motion": null,
+										"motion_digits":
+										[
+										],
+										"next_mode": 2,
+										"next_mode_command": null,
+										"register": null,
+										"stashed_action": null,
+										"user_action_input": null,
+										"user_input": null,
+										"user_motion_input": null,
+										"xpos": 0
+									}
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,1,0,0,0,0,0,0,0,1280,800",
+			"project": "",
+			"replace":
+			{
+				"height": 72.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+				"vintage":
+				{
+					"_cmdline_cd": "/opt/sublime_text",
+					"last_buffer_search": "comma\\\""
+				}
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 202.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 3,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
