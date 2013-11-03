@@ -1,21 +1,25 @@
 {
 	"folder_history":
 	[
-		"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts",
-		"/C/Marslo/Job/Codes/LotusNotesOpt/V3/Codes",
-		"/C/Program Files (x86)/Python27/Lib/site-packages/pythonwin/pywin",
-		"/C/Program Files (x86)/Python27/Lib/site-packages/IPython",
-		"/C/Users/jiaoolii/Desktop/test/ipython",
-		"/C/Program Files (x86)/Python27/Lib/site-packages/ipython-0.13.1-py2.7.egg-info",
-		"/C/Marslo/Study/My_Scripts",
-		"/C/Marslo/Job/Summa/Mpp/netact-mpp-lab-scripts"
+		"/C/Users/jiaoolii/Desktop/bootstrap/RailsStart",
+		"/C/Marslo/Tools/Git/Github/Laurentium/trunk/smarthome/rails3-bootstrap-devise-cancan_1",
+		"/C/Program Files (x86)/Vim/bundle/vundle",
+		"/C/Marslo/Study/Codes/Ruby/Rails/bootstrap",
+		"/C/Marslo/Study/Codes/Ruby/Rails/bootstrap/js",
+		"/C/Marslo/Study/Codes/Ruby/Rails/bootstrap/img",
+		"/C/Marslo/Tools/Git/rails-recurly-subscription-saas",
+		"/C/Marslo/Tools/Git/Laurentium/trunk/projects/rails-recurly-subscription-saas_1",
+		"/C/Marslo/Job/Codes/LotusNotesOpt/V6/Codes",
+		"/C/Marslo/Job/Summa/TEX/SVN",
+		"/C/Marslo/Job/Summa/TEX/SVN/oss_pp",
+		"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts"
 	],
 	"last_version": 3047,
-	"last_window_id": 13,
+	"last_window_id": 16,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 714.0,
+		"new_window_height": 718.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -27,19 +31,35 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 375.0,
+				"height": 363.0,
 				"selected_items":
 				[
-					[
-						"pcin",
-						"Package Control: Install Package"
-					],
 					[
 						"pc li",
 						"Package Control: List Packages"
 					],
 					[
-						"pc re",
+						":w",
+						":w - Save"
+					],
+					[
+						"pi",
+						"Package Control: Install Package"
+					],
+					[
+						"pc in",
+						"Package Control: Install Package"
+					],
+					[
+						"pc u",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pc remo",
 						"Package Control: Remove Package"
 					],
 					[
@@ -47,12 +67,12 @@
 						"Package Control: Upgrade Package"
 					],
 					[
-						"upda",
+						"package u",
 						"Package Control: Upgrade Package"
 					],
 					[
-						"pc u",
-						"Package Control: Upgrade Package"
+						"pc ins",
+						"Package Control: Install Package"
 					],
 					[
 						"pc up",
@@ -63,45 +83,30 @@
 						"Package Control: Install Package"
 					],
 					[
-						"package up",
-						"Package Control: Upgrade Package"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"remov",
-						"Package Control: Remove Package"
-					],
-					[
-						"pre",
-						"Package Control: Remove Package"
-					],
-					[
-						"premove",
-						"Package Control: Remove Package"
-					],
-					[
-						"pi",
+						"pcin",
 						"Package Control: Install Package"
 					],
 					[
-						"pr",
-						"Permute Lines: Reverse"
+						"Package Control: ",
+						"Package Control: List Packages"
 					],
 					[
-						"package insa",
-						"Preferences: Package Control Settings – Default"
+						"Package Control: upgra",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"ssba",
+						"Set Syntax: Batch File"
 					]
 				],
-				"width": 386.0
+				"width": 378.0
 			},
 			"console":
 			{
-				"height": 126.0,
+				"height": 196.0,
 				"history":
 				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
 				]
 			},
 			"distraction_free":
@@ -115,33 +120,95 @@
 			},
 			"file_history":
 			[
-				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
-				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/CTags/Default.sublime-keymap",
-				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/C/Program Files (x86)/Python27/Lib/site-packages/pythonwin/pywin/scintilla/configui.py",
-				"/C/Program Files (x86)/Python27/Lib/site-packages/pythonwin/pywin/framework/editor/configui.py",
-				"/C/Program Files (x86)/Python27/Lib/site-packages/pythonwin/pywin/scintilla/config.py",
-				"/C/Program Files (x86)/Python27/Lib/site-packages/IPython/frontend/qt/console/console_widget.py",
-				"/C/Program Files (x86)/Python27/Lib/site-packages/IPython/frontend/terminal/console/interactiveshell.py",
-				"/C/Program Files (x86)/Python27/Lib/site-packages/IPython/frontend/qt/console/completion_plain.py",
-				"/C/Marslo/Study/My_Scripts/Python/Example/Office/Excel/ExcelBasicOpts.py",
-				"/C/Users/jiaoolii/Desktop/Sublime2_Config_Marslo/README.md",
-				"/C/Marslo/Job/Summa/Mpp/netact-mpp-lab-scripts/netact/netact/ci-lab.rb",
-				"/C/Marslo/Job/Summa/Mpp/netact-mpp-lab-scripts/netact/netact/common.rb",
-				"/C/Marslo/Job/Summa/Mpp/netact-mpp-lab-scripts/netact/netact/None",
-				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/None",
-				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Program Files (x86)/Vim/vim74/macros/less.sh",
+				"/C/Program Files (x86)/Vim/vim74/macros/less.bat",
+				"/C/Marslo/Study/Codes/Ruby/Rails/bootstrap/index.html",
+				"/C/Marslo/Tools/Software/Media/goldwave569key",
+				"/C/Users/jiaoolii/Desktop/acrobat",
+				"/C/Users/jiaoolii/Desktop/bbb/The1stMode/.git/config",
+				"/F/Others/夸奖",
+				"/C/Program Files (x86)/Vim/_vimrc",
 				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
+				"/C/Users/jiaoolii/Desktop/New folder/_vimrc - Copy",
+				"/C/Marslo/Study/Codes/Ruby/Rails/bootstrap/css/bootstrap.css",
+				"/c/Marslo/Tools/Git/Vim_marslo/README.md",
+				"/C/Users/jiaoolii/Desktop/New folder/New folder (2)/poster",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Vintageous Abbreviations.sublime-completions",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/config/boot.rb",
+				"/C/Program Files (x86)/Vim/vimfiles/snippets/html.snippets",
+				"/C/Users/jiaoolii/Desktop/a.html",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/config/routes.rb",
+				"/C/Users/jiaoolii/Desktop/rs",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/config/database.yml",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/assets/stylesheets/bootstrap_and_overrides.css.scss",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/Gemfile",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/assets/javascripts/application.js",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/views/layouts/_messages.html.erb",
+				"/C/Marslo/Tools/Git/EnhCommentify.vim/.git/config",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/controllers/users_controller.rb",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/controllers/registrations_controller.rb",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/controllers/recurly_controller.rb",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/controllers/home_controller.rb",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/controllers/application_controller.rb",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/mailers/user_mailer.rb",
+				"/C/Marslo/Tools/Git/Vim_marslo/README.md",
+				"/C/Marslo/Tools/Git/Vim_marslo/Configurations/Linux/Public_VIMRC/README.md",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Windows/SysWOW64/0.4.2",
+				"/C/Users/jiaoolii/.bash_profile",
+				"/C/Users/jiaoolii/Desktop/New folder (2)/Change Proxy settings",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V6/Codes/lotusNotesAddContents.py",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V6/Codes/autoAddAccount.py",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V6/Codes/processArugs.py",
+				"/C/Program Files (x86)/Vim/vimfiles/bundle/AuthorInfo/plugin/authorinfo.vim",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V6/Codes/printResult.py",
+				"/C/Users/jiaoolii/.gitconfig",
+				"/C/MyProgrames/junit4.10/junit/tests/framework/TestCaseTest.java",
+				"/C/Program Files (x86)/Vim/vimfiles/doc/cmdline.cnx",
+				"/C/Program Files (x86)/Vim/vimfiles/doc/message.cnx",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/doc/example-projects/ip2-farm/actions.rb",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/netact/common.rb",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/ossmw/test.rb",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/jiaoolii/Desktop/Change Proxy settings",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/nas/test.rb",
+				"/C/Program Files (x86)/Vim/vimfiles/doc/starting.cnx",
+				"/C/Users/jiaoolii/Desktop/.vimrc",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/Others/Shortcuts/lno.bat",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/CTags/Default.sublime-keymap",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/jiaoolii/vimperator/info/default/history-search",
+				"/C/Users/jiaoolii/vimperator/info/default/ignored-keys",
+				"/C/Users/jiaoolii/.config/Terminal/terminalrc",
+				"/C/Users/jiaoolii/vimperator/info/default/history-command",
+				"/C/Users/jiaoolii/.alias_marslo",
+				"/C/Users/jiaoolii/NTUSER.DAT",
+				"/C/Users/jiaoolii/_viminfo",
+				"/C/Users/jiaoolii/_vim_mru_files",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/netact/test.rb",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/labs/ossmw-lab-install.rb",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/netact/ci-lab.rb",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/tex.rb",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/tex/tex-mpm",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/bootstrap.rb",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/enabling_root_auth.sh",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/tex/tex-dependency-installer",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V6/Codes/winLotusNotes.py",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/pep8_autoformat.sublime-settings",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings"
 			],
 			"find":
 			{
-				"height": 43.0
+				"height": 44.0
 			},
 			"find_in_files":
 			{
-				"height": 113.0,
+				"height": 116.0,
 				"where_history":
 				[
 					""
@@ -152,52 +219,54 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"ctrl\\+left",
-					"left",
-					"home",
-					"    ",
-					"\\'\\-\\'*20",
-					"'-'*20",
-					"process Argus finished",
-					"Process Argus",
-					"process arugs",
-					"\\n'",
-					"\\n",
-					"HelpPy",
-					"ExecGlobal_SelectedLines",
-					"ConfigManager",
-					"config",
-					"font",
-					"fontname",
-					"font",
-					"fontname",
-					"font",
-					"0.13.5",
-					"0.13.4",
-					"0.13.3",
-					"0.13.2",
-					"version",
-					"font_metrics.width",
-					"font_size",
-					"window",
-					"windos",
-					"python",
-					"windows",
-					"windws",
-					"windows",
-					"console_widget",
-					"cursorsize",
+					"vin",
+					"sidebar",
+					"navbar-fixed-top",
+					"container",
+					".contrainer",
+					"div",
+					"bootstrap",
+					"**.",
+					"stringif",
+					"stringfy",
+					"Finished",
+					"Process Argus fin",
+					"Nothing should be added",
+					"g",
+					"dca_stack_for_upgrade",
+					"Creset",
+					"sfile",
+					"def generate_ip0_sdv",
 					"def test",
-					"\"}",
-					"def test"
+					"value_mapper",
+					"[]",
+					"def execute_command_in_server",
+					"def test",
+					"script.netact",
+					"def execute_tex_test_process",
+					"shell.rb",
+					"shell.run",
+					"def run_test_set",
+					"def execute_tex_test_process",
+					"def run_tex_test",
+					"def execute_configured_tex_runs",
+					"def run_tests(",
+					"def test(",
+					"def run_tests",
+					"def test(",
+					"generate_ip0_sdv",
+					"def test",
+					"def test.rb",
+					"abspath",
+					"action.rb",
+					"import"
 				],
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": true,
+				"regex": false,
 				"replace_history":
 				[
-					""
 				],
 				"reverse": false,
 				"show_context": true,
@@ -207,16 +276,16 @@
 			},
 			"incremental_find":
 			{
-				"height": 31.0
+				"height": 44.0
 			},
 			"input":
 			{
-				"height": 39.0
+				"height": 44.0
 			},
 			"menu_visible": true,
 			"replace":
 			{
-				"height": 78.0
+				"height": 80.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -224,6 +293,22 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"boot",
+						"config\\boot.rb"
+					],
+					[
+						"test.rb",
+						"netact\\nas\\test.rb"
+					],
+					[
+						"actions.rb",
+						"doc\\example-projects\\ip2-farm\\actions.rb"
+					],
+					[
+						"ossmi",
+						"netact\\labs\\ossmw-lab-install.rb"
+					]
 				],
 				"width": 0.0
 			},
@@ -244,16 +329,16 @@
 				"width": 0.0
 			},
 			"show_minimap": true,
-			"show_open_files": true,
+			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 194.0,
+			"side_bar_width": 177.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 966.0
+		"new_window_width": 1188.0
 	},
 	"windows":
 	[
@@ -267,10 +352,10 @@
 			"buffers":
 			[
 				{
-					"file": "/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+					"file": "/C/Users/jiaoolii/Desktop/micolog",
 					"settings":
 					{
-						"buffer_size": 1596,
+						"buffer_size": 27,
 						"line_ending": "Windows"
 					}
 				}
@@ -278,35 +363,35 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 375.0,
+				"height": 363.0,
 				"selected_items":
 				[
 					[
-						"pcin",
+						"pc li",
+						"Package Control: List Packages"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"pi",
 						"Package Control: Install Package"
-					],
-					[
-						"pcre",
-						"Package Control: Remove Package"
-					],
-					[
-						"pc up",
-						"Package Control: Upgrade Package"
-					],
-					[
-						"cmd",
-						"Set Syntax: Vintageous Command Line"
 					],
 					[
 						"pc in",
 						"Package Control: Install Package"
 					],
 					[
-						"pc li",
-						"Package Control: List Packages"
+						"pc u",
+						"Package Control: Upgrade Package"
 					],
 					[
-						"pc re",
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pc remo",
 						"Package Control: Remove Package"
 					],
 					[
@@ -314,11 +399,15 @@
 						"Package Control: Upgrade Package"
 					],
 					[
-						"upda",
+						"package u",
 						"Package Control: Upgrade Package"
 					],
 					[
-						"pc u",
+						"pc ins",
+						"Package Control: Install Package"
+					],
+					[
+						"pc up",
 						"Package Control: Upgrade Package"
 					],
 					[
@@ -326,45 +415,30 @@
 						"Package Control: Install Package"
 					],
 					[
-						"package up",
-						"Package Control: Upgrade Package"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"remov",
-						"Package Control: Remove Package"
-					],
-					[
-						"pre",
-						"Package Control: Remove Package"
-					],
-					[
-						"premove",
-						"Package Control: Remove Package"
-					],
-					[
-						"pi",
+						"pcin",
 						"Package Control: Install Package"
 					],
 					[
-						"pr",
-						"Permute Lines: Reverse"
+						"Package Control: ",
+						"Package Control: List Packages"
 					],
 					[
-						"package insa",
-						"Preferences: Package Control Settings – Default"
+						"Package Control: upgra",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"ssba",
+						"Set Syntax: Batch File"
 					]
 				],
-				"width": 386.0
+				"width": 378.0
 			},
 			"console":
 			{
-				"height": 126.0,
+				"height": 196.0,
 				"history":
 				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
 				]
 			},
 			"distraction_free":
@@ -378,38 +452,102 @@
 			},
 			"file_history":
 			[
-				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/C/Marslo/Job/Codes/LotusNotesOpt/V3/Codes/autoAddAccount.py",
-				"/C/Marslo/Job/Codes/LotusNotesOpt/V3/Codes/winLotusNotes.py",
-				"/C/Marslo/Job/Codes/LotusNotesOpt/V3/Codes/processArugs.py",
-				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/]",
-				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/None",
-				"/C/Marslo/Job/Codes/LotusNotesOpt/V3/Codes/None",
+				"/C/Users/jiaoolii/Desktop/a",
+				"/H/marslo/ClientProgram",
+				"/H/marslo/pythonsource",
+				"/C/Users/jiaoolii/Desktop/snippets.json",
+				"/C/Marslo/Tools/Git/Github/Laurentium/trunk/smarthome/rails3-bootstrap-devise-cancan_1/app/views/devise/sessions/new.html.erb",
+				"/H/Marslo/New folder (2)/lesMiserablesLive(The2010CastAlbum)",
+				"/C/Program Files (x86)/Vim/_vimrc - Copy",
+				"/C/Program Files (x86)/Vim/_vimrc",
+				"/C/Program Files (x86)/Vim/vim74/macros/less.sh",
+				"/C/Program Files (x86)/Vim/vim74/macros/less.bat",
+				"/C/Marslo/Study/Codes/Ruby/Rails/bootstrap/index.html",
+				"/C/Marslo/Tools/Software/Media/goldwave569key",
+				"/C/Users/jiaoolii/Desktop/acrobat",
+				"/C/Users/jiaoolii/Desktop/bbb/The1stMode/.git/config",
+				"/F/Others/夸奖",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/jiaoolii/Desktop/New folder/_vimrc - Copy",
+				"/C/Marslo/Study/Codes/Ruby/Rails/bootstrap/css/bootstrap.css",
+				"/c/Marslo/Tools/Git/Vim_marslo/README.md",
+				"/C/Users/jiaoolii/Desktop/New folder/New folder (2)/poster",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
 				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
-				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Vintageous Abbreviations.sublime-completions",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/config/boot.rb",
+				"/C/Program Files (x86)/Vim/vimfiles/snippets/html.snippets",
+				"/C/Users/jiaoolii/Desktop/a.html",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/config/routes.rb",
+				"/C/Users/jiaoolii/Desktop/rs",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/config/database.yml",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/assets/stylesheets/bootstrap_and_overrides.css.scss",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/Gemfile",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/assets/javascripts/application.js",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/views/layouts/_messages.html.erb",
+				"/C/Marslo/Tools/Git/EnhCommentify.vim/.git/config",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/controllers/users_controller.rb",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/controllers/registrations_controller.rb",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/controllers/recurly_controller.rb",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/controllers/home_controller.rb",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/controllers/application_controller.rb",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/mailers/user_mailer.rb",
+				"/C/Marslo/Tools/Git/Vim_marslo/README.md",
+				"/C/Marslo/Tools/Git/Vim_marslo/Configurations/Linux/Public_VIMRC/README.md",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Windows/SysWOW64/0.4.2",
+				"/C/Users/jiaoolii/.bash_profile",
+				"/C/Users/jiaoolii/Desktop/New folder (2)/Change Proxy settings",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V6/Codes/lotusNotesAddContents.py",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V6/Codes/autoAddAccount.py",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V6/Codes/processArugs.py",
+				"/C/Program Files (x86)/Vim/vimfiles/bundle/AuthorInfo/plugin/authorinfo.vim",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V6/Codes/printResult.py",
+				"/C/Users/jiaoolii/.gitconfig",
+				"/C/MyProgrames/junit4.10/junit/tests/framework/TestCaseTest.java",
+				"/C/Program Files (x86)/Vim/vimfiles/doc/cmdline.cnx",
+				"/C/Program Files (x86)/Vim/vimfiles/doc/message.cnx",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/doc/example-projects/ip2-farm/actions.rb",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/netact/common.rb",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/ossmw/test.rb",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/jiaoolii/Desktop/Change Proxy settings",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/nas/test.rb",
+				"/C/Program Files (x86)/Vim/vimfiles/doc/starting.cnx",
+				"/C/Users/jiaoolii/Desktop/.vimrc",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/Others/Shortcuts/lno.bat",
 				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/CTags/Default.sublime-keymap",
 				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
-				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/C/Program Files (x86)/Python27/Lib/site-packages/pythonwin/pywin/scintilla/configui.py",
-				"/C/Program Files (x86)/Python27/Lib/site-packages/pythonwin/pywin/framework/editor/configui.py",
-				"/C/Program Files (x86)/Python27/Lib/site-packages/pythonwin/pywin/scintilla/config.py",
-				"/C/Program Files (x86)/Python27/Lib/site-packages/IPython/frontend/qt/console/console_widget.py",
-				"/C/Program Files (x86)/Python27/Lib/site-packages/IPython/frontend/terminal/console/interactiveshell.py",
-				"/C/Program Files (x86)/Python27/Lib/site-packages/IPython/frontend/qt/console/completion_plain.py",
-				"/C/Marslo/Study/My_Scripts/Python/Example/Office/Excel/ExcelBasicOpts.py",
-				"/C/Users/jiaoolii/Desktop/Sublime2_Config_Marslo/README.md",
-				"/C/Marslo/Job/Summa/Mpp/netact-mpp-lab-scripts/netact/netact/ci-lab.rb",
-				"/C/Marslo/Job/Summa/Mpp/netact-mpp-lab-scripts/netact/netact/common.rb",
-				"/C/Marslo/Job/Summa/Mpp/netact-mpp-lab-scripts/netact/netact/None",
-				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+				"/C/Users/jiaoolii/vimperator/info/default/history-search",
+				"/C/Users/jiaoolii/vimperator/info/default/ignored-keys",
+				"/C/Users/jiaoolii/.config/Terminal/terminalrc",
+				"/C/Users/jiaoolii/vimperator/info/default/history-command",
+				"/C/Users/jiaoolii/.alias_marslo",
+				"/C/Users/jiaoolii/NTUSER.DAT",
+				"/C/Users/jiaoolii/_viminfo",
+				"/C/Users/jiaoolii/_vim_mru_files",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/netact/test.rb",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/labs/ossmw-lab-install.rb",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/netact/ci-lab.rb",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/tex.rb",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/tex/tex-mpm",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/bootstrap.rb",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/enabling_root_auth.sh",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/tex/tex-dependency-installer",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V6/Codes/winLotusNotes.py",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/pep8_autoformat.sublime-settings",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings"
 			],
 			"find":
 			{
-				"height": 43.0
+				"height": 44.0
 			},
 			"find_in_files":
 			{
-				"height": 113.0,
+				"height": 116.0,
 				"where_history":
 				[
 					""
@@ -420,56 +558,55 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"\": ",
-					"    ",
-					"},",
-					"jump ",
-					"ctrl\\+left",
-					"left",
-					"home",
-					"    ",
-					"\\'\\-\\'*20",
-					"'-'*20",
-					"process Argus finished",
-					"Process Argus",
-					"process arugs",
-					"\\n'",
-					"\\n",
-					"HelpPy",
-					"ExecGlobal_SelectedLines",
-					"ConfigManager",
-					"config",
-					"font",
-					"fontname",
-					"font",
-					"fontname",
-					"font",
-					"0.13.5",
-					"0.13.4",
-					"0.13.3",
-					"0.13.2",
-					"version",
-					"font_metrics.width",
-					"font_size",
-					"window",
-					"windos",
-					"python",
-					"windows",
-					"windws",
-					"windows",
-					"console_widget",
-					"cursorsize",
+					"div",
+					"vin",
+					"sidebar",
+					"navbar-fixed-top",
+					"container",
+					".contrainer",
+					"div",
+					"bootstrap",
+					"**.",
+					"stringif",
+					"stringfy",
+					"Finished",
+					"Process Argus fin",
+					"Nothing should be added",
+					"g",
+					"dca_stack_for_upgrade",
+					"Creset",
+					"sfile",
+					"def generate_ip0_sdv",
 					"def test",
-					"\"}",
-					"def test"
+					"value_mapper",
+					"[]",
+					"def execute_command_in_server",
+					"def test",
+					"script.netact",
+					"def execute_tex_test_process",
+					"shell.rb",
+					"shell.run",
+					"def run_test_set",
+					"def execute_tex_test_process",
+					"def run_tex_test",
+					"def execute_configured_tex_runs",
+					"def run_tests(",
+					"def test(",
+					"def run_tests",
+					"def test(",
+					"generate_ip0_sdv",
+					"def test",
+					"def test.rb",
+					"abspath",
+					"action.rb",
+					"import"
 				],
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": true,
+				"regex": false,
 				"replace_history":
 				[
-					""
 				],
 				"reverse": false,
 				"show_context": true,
@@ -481,7 +618,7 @@
 			[
 				{
 					"follow_symlinks": true,
-					"path": "C:\\Marslo\\Job\\Codes\\LotusNotesOpt\\V3\\Codes"
+					"path": "C:\\Marslo\\Tools\\Git\\Github\\Laurentium\\trunk\\smarthome\\rails3-bootstrap-devise-cancan_1"
 				}
 			],
 			"groups":
@@ -492,51 +629,24 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+							"file": "/C/Users/jiaoolii/Desktop/micolog",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1596,
+								"buffer_size": 27,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										473,
-										473
+										0,
+										0
 									]
 								],
 								"settings":
 								{
-									"highlight_line": true,
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true,
-									"vintage":
-									{
-										"action": null,
-										"action_digits":
-										[
-										],
-										"cancel_action": false,
-										"expecting_register": false,
-										"expecting_user_input": false,
-										"mode": 2,
-										"motion": null,
-										"motion_digits":
-										[
-										],
-										"next_mode": 2,
-										"next_mode_command": null,
-										"register": null,
-										"stashed_action": null,
-										"user_action_input": null,
-										"user_input": null,
-										"user_motion_input": null,
-										"xpos": 60
-									}
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -549,11 +659,11 @@
 			],
 			"incremental_find":
 			{
-				"height": 31.0
+				"height": 44.0
 			},
 			"input":
 			{
-				"height": 39.0
+				"height": 44.0
 			},
 			"layout":
 			{
@@ -578,11 +688,11 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0,2,3,-1,-1,-1,-1,790,1302,22,2284",
+			"position": "0,2,3,-1,-1,-1,-1,1014,76,242,1280",
 			"project": "",
 			"replace":
 			{
-				"height": 78.0
+				"height": 80.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -590,6 +700,22 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"boot",
+						"config\\boot.rb"
+					],
+					[
+						"test.rb",
+						"netact\\nas\\test.rb"
+					],
+					[
+						"actions.rb",
+						"doc\\example-projects\\ip2-farm\\actions.rb"
+					],
+					[
+						"ossmi",
+						"netact\\labs\\ossmw-lab-install.rb"
+					]
 				],
 				"width": 0.0
 			},
@@ -613,19 +739,20 @@
 			{
 				"vintage":
 				{
-					"_cmdline_cd": "C:\\Users\\jiaoolii\\AppData\\Roaming\\Sublime Text 3\\Packages\\User"
+					"_cmdline_cd": "C:\\Users\\jiaoolii\\Desktop",
+					"last_buffer_search": "\\_vimrc"
 				}
 			},
 			"show_minimap": true,
-			"show_open_files": true,
+			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 194.0,
+			"side_bar_width": 177.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 8,
+			"window_id": 15,
 			"workspace_name": ""
 		}
 	],

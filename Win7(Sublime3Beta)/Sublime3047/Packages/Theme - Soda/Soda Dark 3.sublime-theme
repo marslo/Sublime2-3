@@ -592,7 +592,7 @@
     {
         "class": "sidebar_heading",
         "color": [100, 100, 100],
-        "font.size": 13,
+        "font.size": 14,
         "font.face": "Monaco",
         "font.bold": true,
         "shadow_color": [25, 25, 25],
@@ -611,10 +611,10 @@
         "class": "sidebar_label",
         // "color": [98, 158, 1],
         // "color": [38, 38, 198],
-        "color": [110, 125, 110],
+        "color": [130, 135, 130],
         "shadow_color": [0, 0, 0],
         "shadow_offset": [2, 2],
-        "font.size": 12,
+        "font.size": 14,
         "font.face": "Consolas"
         // "font.bold": false,
         // "font.italic": false
@@ -626,7 +626,7 @@
         // "color": [190, 190, 190],
         "color": [120, 140, 80],
         "font.face": "Consolas",
-        "font.size": 13,
+        "font.size": 14,
         "shadow_offset": [1, 1]
     },
     {
@@ -635,7 +635,7 @@
         // "color": [200, 100, 0],
         "color": [120, 150, 120],
         "font.face": "Consolas",
-        "font.size": 13,
+        "font.size": 14,
         "shadow_offset": [1, 1]
     },
     {

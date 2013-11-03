@@ -2,13 +2,19 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"AutoHotkey",
 		"Abacus",
 		"ConvertToUTF8",
 		"CTags",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Python PEP8 Autoformat",
 		"GBK Encoding Support",
 		"GotoLastEdit",
 		"Navigation History",
 		"Package Control",
-		"Theme - Soda"
+		"Theme - Soda",
+		"Twitter Bootstrap Snippets",
+		"Vintageous"
 	]
 }
