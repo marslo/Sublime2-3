@@ -10,7 +10,7 @@
     "draw_minimap_border": true,
     "always_show_minimap_viewport": true,
 
-    // Tab settings
+    	// Tab settings
 	"soda_classic_tabs": true,
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,

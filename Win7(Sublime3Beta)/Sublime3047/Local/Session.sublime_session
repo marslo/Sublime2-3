@@ -1,6 +1,23 @@
 {
 	"folder_history":
 	[
+		"/C/Marslo/Study/Codes/Rails/self-driven-travel",
+		"/C/Marslo/Study/Codes/Rails/BS/bootstrap-3.0.2-dist/css",
+		"/C/MyProgrames/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/redactor-rails-0.4.2",
+		"/C/Marslo/Study/Codes/Ruby/Rails/Bootstrapsrc/bootstrap",
+		"/C/Marslo/Job/Summa/TEX/SVN/oss_pp/tex/src/testcases/tex-selenium-firefox-addons-certs-example",
+		"/C/Marslo/Job/Summa/TEX/SVN/oss_pp/tex/src/configurator",
+		"/C/Marslo/Job/Summa/TEX/SVN/oss_pp/tex/src/testcases",
+		"/C/Marslo/Job/Summa/TEX/SVN/viis-lab-scripts",
+		"/C/Marslo/Job/Codes/LotusNotesOpt/V8/Codes",
+		"/C/Users/jiaoolii/Desktop/devise-i18n",
+		"/C/Marslo/Study/Codes/Rails/rails3-bootstrap-devise-cancan",
+		"/C/Marslo/Study/Codes/Rails/MyRails/mycancan",
+		"/C/Marslo/Study/Codes/Rails/The1stMode/first",
+		"/C/Marslo/Job/Codes/LotusNotesOpt/V6/Codes",
+		"/C/Marslo/Study/My/My_Scripts",
+		"/C/Marslo/Study/Codes",
+		"/C/Marslo/Job/Codes/My_Scripts",
 		"/C/Users/jiaoolii/Desktop/bootstrap/RailsStart",
 		"/C/Marslo/Tools/Git/Github/Laurentium/trunk/smarthome/rails3-bootstrap-devise-cancan_1",
 		"/C/Program Files (x86)/Vim/bundle/vundle",
@@ -9,17 +26,16 @@
 		"/C/Marslo/Study/Codes/Ruby/Rails/bootstrap/img",
 		"/C/Marslo/Tools/Git/rails-recurly-subscription-saas",
 		"/C/Marslo/Tools/Git/Laurentium/trunk/projects/rails-recurly-subscription-saas_1",
-		"/C/Marslo/Job/Codes/LotusNotesOpt/V6/Codes",
 		"/C/Marslo/Job/Summa/TEX/SVN",
 		"/C/Marslo/Job/Summa/TEX/SVN/oss_pp",
 		"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts"
 	],
 	"last_version": 3047,
-	"last_window_id": 16,
+	"last_window_id": 43,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 718.0,
+		"new_window_height": 760.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -31,20 +47,40 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 363.0,
+				"height": 88.0,
 				"selected_items":
 				[
+					[
+						"package	con up",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"pcup",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"pcin",
+						"Package Control: Install Package"
+					],
+					[
+						"pc re",
+						"Package Control: Remove Package"
+					],
 					[
 						"pc li",
 						"Package Control: List Packages"
 					],
 					[
-						":w",
-						":w - Save"
+						"boots start",
+						"Snippet: Bootstrap starter"
 					],
 					[
 						"pi",
 						"Package Control: Install Package"
+					],
+					[
+						":w",
+						":w - Save"
 					],
 					[
 						"pc in",
@@ -63,10 +99,6 @@
 						"Package Control: Remove Package"
 					],
 					[
-						"pcup",
-						"Package Control: Upgrade Package"
-					],
-					[
 						"package u",
 						"Package Control: Upgrade Package"
 					],
@@ -83,10 +115,6 @@
 						"Package Control: Install Package"
 					],
 					[
-						"pcin",
-						"Package Control: Install Package"
-					],
-					[
 						"Package Control: ",
 						"Package Control: List Packages"
 					],
@@ -99,7 +127,7 @@
 						"Set Syntax: Batch File"
 					]
 				],
-				"width": 378.0
+				"width": 386.0
 			},
 			"console":
 			{
@@ -120,343 +148,49 @@
 			},
 			"file_history":
 			[
-				"/C/Program Files (x86)/Vim/vim74/macros/less.sh",
-				"/C/Program Files (x86)/Vim/vim74/macros/less.bat",
-				"/C/Marslo/Study/Codes/Ruby/Rails/bootstrap/index.html",
-				"/C/Marslo/Tools/Software/Media/goldwave569key",
-				"/C/Users/jiaoolii/Desktop/acrobat",
-				"/C/Users/jiaoolii/Desktop/bbb/The1stMode/.git/config",
-				"/F/Others/夸奖",
-				"/C/Program Files (x86)/Vim/_vimrc",
-				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/C/Users/jiaoolii/Desktop/New folder/_vimrc - Copy",
-				"/C/Marslo/Study/Codes/Ruby/Rails/bootstrap/css/bootstrap.css",
-				"/c/Marslo/Tools/Git/Vim_marslo/README.md",
-				"/C/Users/jiaoolii/Desktop/New folder/New folder (2)/poster",
-				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
-				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
-				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
-				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
-				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Vintageous Abbreviations.sublime-completions",
-				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
-				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/config/boot.rb",
-				"/C/Program Files (x86)/Vim/vimfiles/snippets/html.snippets",
-				"/C/Users/jiaoolii/Desktop/a.html",
-				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/config/routes.rb",
-				"/C/Users/jiaoolii/Desktop/rs",
-				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/config/database.yml",
-				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/assets/stylesheets/bootstrap_and_overrides.css.scss",
-				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/Gemfile",
-				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/assets/javascripts/application.js",
-				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/views/layouts/_messages.html.erb",
-				"/C/Marslo/Tools/Git/EnhCommentify.vim/.git/config",
-				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/controllers/users_controller.rb",
-				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/controllers/registrations_controller.rb",
-				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/controllers/recurly_controller.rb",
-				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/controllers/home_controller.rb",
-				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/controllers/application_controller.rb",
-				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/mailers/user_mailer.rb",
-				"/C/Marslo/Tools/Git/Vim_marslo/README.md",
-				"/C/Marslo/Tools/Git/Vim_marslo/Configurations/Linux/Public_VIMRC/README.md",
-				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/C/Windows/SysWOW64/0.4.2",
-				"/C/Users/jiaoolii/.bash_profile",
-				"/C/Users/jiaoolii/Desktop/New folder (2)/Change Proxy settings",
-				"/C/Marslo/Job/Codes/LotusNotesOpt/V6/Codes/lotusNotesAddContents.py",
-				"/C/Marslo/Job/Codes/LotusNotesOpt/V6/Codes/autoAddAccount.py",
-				"/C/Marslo/Job/Codes/LotusNotesOpt/V6/Codes/processArugs.py",
-				"/C/Program Files (x86)/Vim/vimfiles/bundle/AuthorInfo/plugin/authorinfo.vim",
-				"/C/Marslo/Job/Codes/LotusNotesOpt/V6/Codes/printResult.py",
-				"/C/Users/jiaoolii/.gitconfig",
-				"/C/MyProgrames/junit4.10/junit/tests/framework/TestCaseTest.java",
-				"/C/Program Files (x86)/Vim/vimfiles/doc/cmdline.cnx",
-				"/C/Program Files (x86)/Vim/vimfiles/doc/message.cnx",
-				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/doc/example-projects/ip2-farm/actions.rb",
-				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/netact/common.rb",
-				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/ossmw/test.rb",
-				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/C/Users/jiaoolii/Desktop/Change Proxy settings",
-				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/nas/test.rb",
-				"/C/Program Files (x86)/Vim/vimfiles/doc/starting.cnx",
-				"/C/Users/jiaoolii/Desktop/.vimrc",
-				"/C/Marslo/Job/Codes/LotusNotesOpt/Others/Shortcuts/lno.bat",
-				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/CTags/Default.sublime-keymap",
-				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
-				"/C/Users/jiaoolii/vimperator/info/default/history-search",
-				"/C/Users/jiaoolii/vimperator/info/default/ignored-keys",
-				"/C/Users/jiaoolii/.config/Terminal/terminalrc",
-				"/C/Users/jiaoolii/vimperator/info/default/history-command",
-				"/C/Users/jiaoolii/.alias_marslo",
-				"/C/Users/jiaoolii/NTUSER.DAT",
-				"/C/Users/jiaoolii/_viminfo",
-				"/C/Users/jiaoolii/_vim_mru_files",
-				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/netact/test.rb",
-				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/labs/ossmw-lab-install.rb",
-				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/netact/ci-lab.rb",
-				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/tex.rb",
-				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/tex/tex-mpm",
-				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/bootstrap.rb",
-				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/enabling_root_auth.sh",
-				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/tex/tex-dependency-installer",
-				"/C/Marslo/Job/Codes/LotusNotesOpt/V6/Codes/winLotusNotes.py",
-				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/pep8_autoformat.sublime-settings",
-				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings"
-			],
-			"find":
-			{
-				"height": 44.0
-			},
-			"find_in_files":
-			{
-				"height": 116.0,
-				"where_history":
-				[
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"vin",
-					"sidebar",
-					"navbar-fixed-top",
-					"container",
-					".contrainer",
-					"div",
-					"bootstrap",
-					"**.",
-					"stringif",
-					"stringfy",
-					"Finished",
-					"Process Argus fin",
-					"Nothing should be added",
-					"g",
-					"dca_stack_for_upgrade",
-					"Creset",
-					"sfile",
-					"def generate_ip0_sdv",
-					"def test",
-					"value_mapper",
-					"[]",
-					"def execute_command_in_server",
-					"def test",
-					"script.netact",
-					"def execute_tex_test_process",
-					"shell.rb",
-					"shell.run",
-					"def run_test_set",
-					"def execute_tex_test_process",
-					"def run_tex_test",
-					"def execute_configured_tex_runs",
-					"def run_tests(",
-					"def test(",
-					"def run_tests",
-					"def test(",
-					"generate_ip0_sdv",
-					"def test",
-					"def test.rb",
-					"abspath",
-					"action.rb",
-					"import"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 44.0
-			},
-			"input":
-			{
-				"height": 44.0
-			},
-			"menu_visible": true,
-			"replace":
-			{
-				"height": 80.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-					[
-						"boot",
-						"config\\boot.rb"
-					],
-					[
-						"test.rb",
-						"netact\\nas\\test.rb"
-					],
-					[
-						"actions.rb",
-						"doc\\example-projects\\ip2-farm\\actions.rb"
-					],
-					[
-						"ossmi",
-						"netact\\labs\\ossmw-lab-install.rb"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 177.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 1188.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/C/Users/jiaoolii/Desktop/micolog",
-					"settings":
-					{
-						"buffer_size": 27,
-						"line_ending": "Windows"
-					}
-				}
-			],
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 363.0,
-				"selected_items":
-				[
-					[
-						"pc li",
-						"Package Control: List Packages"
-					],
-					[
-						":w",
-						":w - Save"
-					],
-					[
-						"pi",
-						"Package Control: Install Package"
-					],
-					[
-						"pc in",
-						"Package Control: Install Package"
-					],
-					[
-						"pc u",
-						"Package Control: Upgrade Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"pc remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"pcup",
-						"Package Control: Upgrade Package"
-					],
-					[
-						"package u",
-						"Package Control: Upgrade Package"
-					],
-					[
-						"pc ins",
-						"Package Control: Install Package"
-					],
-					[
-						"pc up",
-						"Package Control: Upgrade Package"
-					],
-					[
-						"packagecon in",
-						"Package Control: Install Package"
-					],
-					[
-						"pcin",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: ",
-						"Package Control: List Packages"
-					],
-					[
-						"Package Control: upgra",
-						"Package Control: Upgrade/Overwrite All Packages"
-					],
-					[
-						"ssba",
-						"Set Syntax: Batch File"
-					]
-				],
-				"width": 378.0
-			},
-			"console":
-			{
-				"height": 196.0,
-				"history":
-				[
-					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
+				"/C/Marslo/Study/Codes/Rails/self-driven-travel/.idea/workspace.xml",
+				"/C/Marslo/Study/Codes/Rails/self-driven-travel/app/helpers/application_helper.rb",
+				"/C/MyProgrames/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/redactor-rails-0.4.2/vendor/assets/javascripts/redactor-rails/redactor.js",
+				"/C/MyProgrames/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/redactor-rails-0.4.2/vendor/assets/javascripts/redactor-rails/plugins/fullscreen.js",
+				"/C/MyProgrames/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/redactor-rails-0.4.2/vendor/assets/javascripts/redactor-rails/plugins/fontcolor.js",
+				"/C/MyProgrames/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/redactor-rails-0.4.2/vendor/assets/javascripts/redactor-rails/langs/zh_cn.js",
+				"/C/Marslo/Study/Codes/Rails/self-driven-travel/app/views/devise/sessions/new.html.erb",
+				"/C/Marslo/Study/Codes/Rails/self-driven-travel/app/models/user.rb",
+				"/C/Marslo/Study/Codes/Ruby/Rails/Bootstrapsrc/bootstrap/css/bootstrap.css",
+				"/C/Users/jiaoolii/Desktop/Upload.class.php",
+				"/C/Marslo/Job/Summa/TEX/SVN/oss_pp/tex/src/testcases/tex-selenium-firefox-addons-certs-example/tests/https/authentication-keywords.tsv",
+				"/C/Marslo/Job/Summa/TEX/SVN/oss_pp/tex/src/testcases/tex-selenium-firefox-addons-certs-example/tests/dummy/foobar.txt",
+				"/C/Marslo/Job/Summa/TEX/SVN/oss_pp/tex/src/testcases/tex-selenium-firefox-addons-certs-example/tests/https/ohs_tests_resources.tsv",
+				"/C/Marslo/Job/Summa/TEX/SVN/oss_pp/tex/src/testcases/tex-selenium-firefox-addons-certs-example/whole_suite.sh",
+				"/C/Marslo/Job/Summa/TEX/SVN/oss_pp/tex/src/testcases/tex-selenium-firefox-addons-certs-example/tests/https/__init__.tsv",
+				"/C/Marslo/Job/Summa/TEX/SVN/oss_pp/tex/src/testcases/tex-selenium-firefox-addons-certs-example/tests/https/ohs_tests.tsv",
+				"/C/Marslo/Tools/Git/Github/VimConfig/README.md",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V8/Codes/autoAddAccount.py",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V8/Codes/processArugs.py",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V8/Codes/lotusNotesGetContents.py",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V8/Codes/processTempFile.py",
+				"/C/Marslo/Study/Codes/Rails/self-driven-travel/app/views/layouts/_navigation.html.erb",
+				"/C/Marslo/Study/Codes/Rails/self-driven-travel/Gemfile",
+				"/C/Marslo/Study/Codes/Rails/self-driven-travel/app/controllers/application_controller.rb",
+				"/C/Marslo/Study/Codes/Rails/rails3-bootstrap-devise-cancan/config/locales/devise.en.yml",
+				"/C/Marslo/Study/Codes/Rails/rails3-bootstrap-devise-cancan/Gemfile",
+				"/C/Marslo/Study/Codes/Rails/MyRails/mycancan/app/models/ability.rb",
+				"/C/Marslo/Study/Codes/Rails/The1stMode/first/app/models/user.rb",
+				"/C/Marslo/Study/Codes/Rails/BS/bootstrap-3.0.2-dist/index.html",
+				"/C/Marslo/Study/Codes/Rails/The1stMode/first/app/views/devise/sessions/new.html.erb",
+				"/C/Marslo/Study/Codes/Rails/The1stMode/first/Gemfile",
+				"/C/Users/jiaoolii/Desktop/4.bak",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V6/Codes/lotusNotesGetContents.py",
+				"/C/Marslo/Tools/Git/Github/Laurentium/trunk/smarthome/rails3-bootstrap-devise-cancan_1/vendor/assets/stylesheets/.gitkeep",
+				"/C/Marslo/Tools/Git/Github/Laurentium/trunk/smarthome/rails3-bootstrap-devise-cancan_1/tmp/cache/sass/64687414418256b44f37010f62bd522b328cdb16/bootstrap.scssc",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+				"/C/Marslo/Tools/Git/Github/Laurentium/trunk/smarthome/rails3-bootstrap-devise-cancan_1/.idea/modules.xml",
+				"/C/Marslo/Tools/Git/Github/Laurentium/trunk/smarthome/rails3-bootstrap-devise-cancan_1/app/views/devise/sessions/new.html.erb",
+				"/C/Users/jiaoolii/Desktop/micolog",
 				"/C/Users/jiaoolii/Desktop/a",
 				"/H/marslo/ClientProgram",
 				"/H/marslo/pythonsource",
 				"/C/Users/jiaoolii/Desktop/snippets.json",
-				"/C/Marslo/Tools/Git/Github/Laurentium/trunk/smarthome/rails3-bootstrap-devise-cancan_1/app/views/devise/sessions/new.html.erb",
 				"/H/Marslo/New folder (2)/lesMiserablesLive(The2010CastAlbum)",
 				"/C/Program Files (x86)/Vim/_vimrc - Copy",
 				"/C/Program Files (x86)/Vim/_vimrc",
@@ -558,6 +292,569 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"breadcrumb",
+					"\"breadcrumb\"",
+					"navbar-text",
+					"pull-right",
+					"form-horizontal",
+					"layouts.title",
+					"title.signup",
+					"display_base_errors",
+					"Forgot",
+					"Forgot your password?",
+					"innerText",
+					"innerHTML",
+					"activebutton",
+					"insertHtml",
+					"execCommand",
+					"alignmentSet",
+					"alignmentLeft",
+					"alignleft",
+					"buttonActive",
+					"contentEditable",
+					"alignmentSet",
+					"alignmentLeft",
+					"alignleft",
+					"buttonActive",
+					"redactor_act",
+					"alignleft",
+					"remember_me",
+					"：remember_me",
+					":input",
+					"input",
+					"bubmit",
+					"resource",
+					"center",
+					"row-fluid",
+					"pull-left",
+					"row-fluid",
+					"container",
+					"content",
+					".content",
+					".layouts/sidebar-nav",
+					"span12",
+					"span3",
+					"Silly",
+					"Silly\n",
+					"TESTSUITE",
+					"open",
+					"Open",
+					"error_notification",
+					"display_base_error",
+					"SeleniumLibrary-2.7",
+					"rand(1000)",
+					"user",
+					"no needs",
+					"exit(",
+					"Details as below",
+					"Username",
+					"Login Server ",
+					"Login Server Corp's Directory successed",
+					"arguinfo['LogFile']",
+					"Edit account",
+					"navigation.title",
+					"layouts.application.",
+					"application.",
+					"forgot",
+					"forgot your",
+					"forgot your password",
+					"sign up",
+					"I18n",
+					"signed in",
+					"users_path",
+					"user_path",
+					"\n",
+					"user.has_role",
+					"remember_me",
+					"submit",
+					"remember_me",
+					"password",
+					"UO=",
+					"showname",
+					"resource_name",
+					"div",
+					"vin",
+					"sidebar",
+					"navbar-fixed-top",
+					"container",
+					".contrainer",
+					"div",
+					"bootstrap",
+					"**.",
+					"stringif",
+					"stringfy",
+					"Finished",
+					"Process Argus fin",
+					"Nothing should be added",
+					"g",
+					"dca_stack_for_upgrade",
+					"Creset",
+					"sfile",
+					"def generate_ip0_sdv",
+					"def test",
+					"value_mapper",
+					"[]",
+					"def execute_command_in_server",
+					"def test",
+					"script.netact",
+					"def execute_tex_test_process",
+					"shell.rb",
+					"shell.run",
+					"def run_test_set",
+					"def execute_tex_test_process",
+					"def run_tex_test",
+					"def execute_configured_tex_runs",
+					"def run_tests(",
+					"def test(",
+					"def run_tests",
+					"def test(",
+					"generate_ip0_sdv",
+					"def test",
+					"def test.rb",
+					"abspath",
+					"action.rb",
+					"import"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 44.0
+			},
+			"input":
+			{
+				"height": 44.0
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 80.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"ge",
+						"Gemfile"
+					],
+					[
+						"user",
+						"app\\models\\user.rb"
+					],
+					[
+						"bootstrap",
+						"tmp\\cache\\sass\\64687414418256b44f37010f62bd522b328cdb16\\bootstrap.scssc"
+					],
+					[
+						"boot",
+						"config\\boot.rb"
+					],
+					[
+						"test.rb",
+						"netact\\nas\\test.rb"
+					],
+					[
+						"actions.rb",
+						"doc\\example-projects\\ip2-farm\\actions.rb"
+					],
+					[
+						"ossmi",
+						"netact\\labs\\ossmw-lab-install.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 153.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1188.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 188.0,
+				"selected_items":
+				[
+					[
+						"pc list",
+						"Package Control: List Packages"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pcin",
+						"Package Control: Install Package"
+					],
+					[
+						"package	con up",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"pcup",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"pc re",
+						"Package Control: Remove Package"
+					],
+					[
+						"pc li",
+						"Package Control: List Packages"
+					],
+					[
+						"boots start",
+						"Snippet: Bootstrap starter"
+					],
+					[
+						"pi",
+						"Package Control: Install Package"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"pc in",
+						"Package Control: Install Package"
+					],
+					[
+						"pc u",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pc remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"package u",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"pc ins",
+						"Package Control: Install Package"
+					],
+					[
+						"pc up",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"packagecon in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: upgra",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"ssba",
+						"Set Syntax: Batch File"
+					]
+				],
+				"width": 378.0
+			},
+			"console":
+			{
+				"height": 196.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Marslo/Study/Codes/Rails/self-driven-travel/.gitignore",
+				"/C/Marslo/Study/Codes/Rails/self-driven-travel/.idea/workspace.xml",
+				"/C/Marslo/Study/Codes/Rails/self-driven-travel/app/helpers/application_helper.rb",
+				"/C/MyProgrames/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/redactor-rails-0.4.2/vendor/assets/javascripts/redactor-rails/redactor.js",
+				"/C/MyProgrames/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/redactor-rails-0.4.2/vendor/assets/javascripts/redactor-rails/plugins/fullscreen.js",
+				"/C/MyProgrames/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/redactor-rails-0.4.2/vendor/assets/javascripts/redactor-rails/plugins/fontcolor.js",
+				"/C/MyProgrames/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/redactor-rails-0.4.2/vendor/assets/javascripts/redactor-rails/langs/zh_cn.js",
+				"/C/Marslo/Study/Codes/Rails/self-driven-travel/app/views/devise/sessions/new.html.erb",
+				"/C/Marslo/Study/Codes/Rails/self-driven-travel/app/models/user.rb",
+				"/C/Marslo/Study/Codes/Ruby/Rails/Bootstrapsrc/bootstrap/css/bootstrap.css",
+				"/C/Users/jiaoolii/Desktop/Upload.class.php",
+				"/C/Marslo/Job/Summa/TEX/SVN/oss_pp/tex/src/testcases/tex-selenium-firefox-addons-certs-example/tests/https/authentication-keywords.tsv",
+				"/C/Marslo/Job/Summa/TEX/SVN/oss_pp/tex/src/testcases/tex-selenium-firefox-addons-certs-example/tests/dummy/foobar.txt",
+				"/C/Marslo/Job/Summa/TEX/SVN/oss_pp/tex/src/testcases/tex-selenium-firefox-addons-certs-example/tests/https/ohs_tests_resources.tsv",
+				"/C/Marslo/Job/Summa/TEX/SVN/oss_pp/tex/src/testcases/tex-selenium-firefox-addons-certs-example/whole_suite.sh",
+				"/C/Marslo/Job/Summa/TEX/SVN/oss_pp/tex/src/testcases/tex-selenium-firefox-addons-certs-example/tests/https/__init__.tsv",
+				"/C/Marslo/Job/Summa/TEX/SVN/oss_pp/tex/src/testcases/tex-selenium-firefox-addons-certs-example/tests/https/ohs_tests.tsv",
+				"/C/Marslo/Tools/Git/Github/VimConfig/README.md",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V8/Codes/autoAddAccount.py",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V8/Codes/processArugs.py",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V8/Codes/lotusNotesGetContents.py",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V8/Codes/processTempFile.py",
+				"/C/Marslo/Study/Codes/Rails/self-driven-travel/app/views/layouts/_navigation.html.erb",
+				"/C/Marslo/Study/Codes/Rails/self-driven-travel/Gemfile",
+				"/C/Marslo/Study/Codes/Rails/self-driven-travel/app/controllers/application_controller.rb",
+				"/C/Marslo/Study/Codes/Rails/rails3-bootstrap-devise-cancan/config/locales/devise.en.yml",
+				"/C/Marslo/Study/Codes/Rails/rails3-bootstrap-devise-cancan/Gemfile",
+				"/C/Marslo/Study/Codes/Rails/MyRails/mycancan/app/models/ability.rb",
+				"/C/Marslo/Study/Codes/Rails/The1stMode/first/app/models/user.rb",
+				"/C/Marslo/Study/Codes/Rails/BS/bootstrap-3.0.2-dist/index.html",
+				"/C/Marslo/Study/Codes/Rails/The1stMode/first/app/views/devise/sessions/new.html.erb",
+				"/C/Marslo/Study/Codes/Rails/The1stMode/first/Gemfile",
+				"/C/Users/jiaoolii/Desktop/4.bak",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V6/Codes/lotusNotesGetContents.py",
+				"/C/Marslo/Tools/Git/Github/Laurentium/trunk/smarthome/rails3-bootstrap-devise-cancan_1/vendor/assets/stylesheets/.gitkeep",
+				"/C/Marslo/Tools/Git/Github/Laurentium/trunk/smarthome/rails3-bootstrap-devise-cancan_1/tmp/cache/sass/64687414418256b44f37010f62bd522b328cdb16/bootstrap.scssc",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+				"/C/Marslo/Tools/Git/Github/Laurentium/trunk/smarthome/rails3-bootstrap-devise-cancan_1/.idea/modules.xml",
+				"/C/Marslo/Tools/Git/Github/Laurentium/trunk/smarthome/rails3-bootstrap-devise-cancan_1/app/views/devise/sessions/new.html.erb",
+				"/C/Users/jiaoolii/Desktop/micolog",
+				"/C/Users/jiaoolii/Desktop/a",
+				"/H/marslo/ClientProgram",
+				"/H/marslo/pythonsource",
+				"/C/Users/jiaoolii/Desktop/snippets.json",
+				"/H/Marslo/New folder (2)/lesMiserablesLive(The2010CastAlbum)",
+				"/C/Program Files (x86)/Vim/_vimrc - Copy",
+				"/C/Program Files (x86)/Vim/_vimrc",
+				"/C/Program Files (x86)/Vim/vim74/macros/less.sh",
+				"/C/Program Files (x86)/Vim/vim74/macros/less.bat",
+				"/C/Marslo/Study/Codes/Ruby/Rails/bootstrap/index.html",
+				"/C/Marslo/Tools/Software/Media/goldwave569key",
+				"/C/Users/jiaoolii/Desktop/acrobat",
+				"/C/Users/jiaoolii/Desktop/bbb/The1stMode/.git/config",
+				"/F/Others/夸奖",
+				"/C/Users/jiaoolii/Desktop/New folder/_vimrc - Copy",
+				"/C/Marslo/Study/Codes/Ruby/Rails/bootstrap/css/bootstrap.css",
+				"/c/Marslo/Tools/Git/Vim_marslo/README.md",
+				"/C/Users/jiaoolii/Desktop/New folder/New folder (2)/poster",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Vintageous Abbreviations.sublime-completions",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/config/boot.rb",
+				"/C/Program Files (x86)/Vim/vimfiles/snippets/html.snippets",
+				"/C/Users/jiaoolii/Desktop/a.html",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/config/routes.rb",
+				"/C/Users/jiaoolii/Desktop/rs",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/config/database.yml",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/assets/stylesheets/bootstrap_and_overrides.css.scss",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/Gemfile",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/assets/javascripts/application.js",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/views/layouts/_messages.html.erb",
+				"/C/Marslo/Tools/Git/EnhCommentify.vim/.git/config",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/controllers/users_controller.rb",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/controllers/registrations_controller.rb",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/controllers/recurly_controller.rb",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/controllers/home_controller.rb",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/controllers/application_controller.rb",
+				"/C/Marslo/Tools/Git/rails-recurly-subscription-saas/app/mailers/user_mailer.rb",
+				"/C/Marslo/Tools/Git/Vim_marslo/README.md",
+				"/C/Marslo/Tools/Git/Vim_marslo/Configurations/Linux/Public_VIMRC/README.md",
+				"/C/Windows/SysWOW64/0.4.2",
+				"/C/Users/jiaoolii/.bash_profile",
+				"/C/Users/jiaoolii/Desktop/New folder (2)/Change Proxy settings",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V6/Codes/lotusNotesAddContents.py",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V6/Codes/autoAddAccount.py",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V6/Codes/processArugs.py",
+				"/C/Program Files (x86)/Vim/vimfiles/bundle/AuthorInfo/plugin/authorinfo.vim",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V6/Codes/printResult.py",
+				"/C/Users/jiaoolii/.gitconfig",
+				"/C/MyProgrames/junit4.10/junit/tests/framework/TestCaseTest.java",
+				"/C/Program Files (x86)/Vim/vimfiles/doc/cmdline.cnx",
+				"/C/Program Files (x86)/Vim/vimfiles/doc/message.cnx",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/doc/example-projects/ip2-farm/actions.rb",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/netact/common.rb",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/ossmw/test.rb",
+				"/C/Users/jiaoolii/Desktop/Change Proxy settings",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/nas/test.rb",
+				"/C/Program Files (x86)/Vim/vimfiles/doc/starting.cnx",
+				"/C/Users/jiaoolii/Desktop/.vimrc",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/Others/Shortcuts/lno.bat",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/CTags/Default.sublime-keymap",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/jiaoolii/vimperator/info/default/history-search",
+				"/C/Users/jiaoolii/vimperator/info/default/ignored-keys",
+				"/C/Users/jiaoolii/.config/Terminal/terminalrc",
+				"/C/Users/jiaoolii/vimperator/info/default/history-command",
+				"/C/Users/jiaoolii/.alias_marslo",
+				"/C/Users/jiaoolii/NTUSER.DAT",
+				"/C/Users/jiaoolii/_viminfo",
+				"/C/Users/jiaoolii/_vim_mru_files",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/netact/test.rb",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/labs/ossmw-lab-install.rb",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/netact/ci-lab.rb",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/tex.rb",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/tex/tex-mpm",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/bootstrap.rb",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/enabling_root_auth.sh",
+				"/C/Marslo/Job/Summa/TEX/SVN/netact-mpp-lab-scripts/netact/tex/tex-dependency-installer",
+				"/C/Marslo/Job/Codes/LotusNotesOpt/V6/Codes/winLotusNotes.py",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/pep8_autoformat.sublime-settings",
+				"/C/Users/jiaoolii/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings"
+			],
+			"find":
+			{
+				"height": 44.0
+			},
+			"find_in_files":
+			{
+				"height": 116.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"breadcrumb",
+					"\"breadcrumb\"",
+					"navbar-text",
+					"pull-right",
+					"form-horizontal",
+					"layouts.title",
+					"title.signup",
+					"display_base_errors",
+					"Forgot",
+					"Forgot your password?",
+					"innerText",
+					"innerHTML",
+					"activebutton",
+					"insertHtml",
+					"execCommand",
+					"alignmentSet",
+					"alignmentLeft",
+					"alignleft",
+					"buttonActive",
+					"contentEditable",
+					"alignmentSet",
+					"alignmentLeft",
+					"alignleft",
+					"buttonActive",
+					"redactor_act",
+					"alignleft",
+					"remember_me",
+					"：remember_me",
+					":input",
+					"input",
+					"bubmit",
+					"resource",
+					"center",
+					"row-fluid",
+					"pull-left",
+					"row-fluid",
+					"container",
+					"content",
+					".content",
+					".layouts/sidebar-nav",
+					"span12",
+					"span3",
+					"Silly",
+					"Silly\n",
+					"TESTSUITE",
+					"open",
+					"Open",
+					"error_notification",
+					"display_base_error",
+					"SeleniumLibrary-2.7",
+					"rand(1000)",
+					"user",
+					"no needs",
+					"exit(",
+					"Details as below",
+					"Username",
+					"Login Server ",
+					"Login Server Corp's Directory successed",
+					"arguinfo['LogFile']",
+					"Edit account",
+					"navigation.title",
+					"layouts.application.",
+					"application.",
+					"forgot",
+					"forgot your",
+					"forgot your password",
+					"sign up",
+					"I18n",
+					"signed in",
+					"users_path",
+					"user_path",
+					"\n",
+					"user.has_role",
+					"remember_me",
+					"submit",
+					"remember_me",
+					"password",
+					"UO=",
+					"showname",
+					"resource_name",
 					"div",
 					"vin",
 					"sidebar",
@@ -618,42 +915,14 @@
 			[
 				{
 					"follow_symlinks": true,
-					"path": "C:\\Marslo\\Tools\\Git\\Github\\Laurentium\\trunk\\smarthome\\rails3-bootstrap-devise-cancan_1"
+					"path": "C:\\Marslo\\Study\\Codes\\Rails\\self-driven-travel"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/C/Users/jiaoolii/Desktop/micolog",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 27,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -688,7 +957,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0,2,3,-1,-1,-1,-1,1014,76,242,1280",
+			"position": "0,2,3,-1,-1,-1,-1,968,1356,154,2560",
 			"project": "",
 			"replace":
 			{
@@ -700,6 +969,18 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"ge",
+						"Gemfile"
+					],
+					[
+						"user",
+						"app\\models\\user.rb"
+					],
+					[
+						"bootstrap",
+						"tmp\\cache\\sass\\64687414418256b44f37010f62bd522b328cdb16\\bootstrap.scssc"
+					],
 					[
 						"boot",
 						"config\\boot.rb"
@@ -721,11 +1002,11 @@
 			},
 			"select_project":
 			{
-				"height": 0.0,
+				"height": 500.0,
 				"selected_items":
 				[
 				],
-				"width": 0.0
+				"width": 380.0
 			},
 			"select_symbol":
 			{
@@ -739,20 +1020,19 @@
 			{
 				"vintage":
 				{
-					"_cmdline_cd": "C:\\Users\\jiaoolii\\Desktop",
-					"last_buffer_search": "\\_vimrc"
+					"_cmdline_cd": "C:\\Program Files\\Sublime Text 3"
 				}
 			},
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 177.0,
+			"side_bar_width": 153.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 15,
+			"window_id": 43,
 			"workspace_name": ""
 		}
 	],

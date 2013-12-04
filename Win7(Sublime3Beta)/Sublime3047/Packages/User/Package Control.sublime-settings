@@ -4,10 +4,12 @@
 	[
 		"AutoHotkey",
 		"Abacus",
+		"BracketHighlighter",
 		"ConvertToUTF8",
 		"CTags",
 		"Emmet",
 		"Emmet Css Snippets",
+		"Open Folder",
 		"Python PEP8 Autoformat",
 		"GBK Encoding Support",
 		"GotoLastEdit",
