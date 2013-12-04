@@ -3,6 +3,7 @@
 	"packages":
 	[
 		"AutoHotkey",
+		"BracketHighlighter",
 		"CTags",
 		"Emmet Css Snippets",
 		"Emmet",
@@ -13,6 +14,7 @@
 		"Twitter Bootstrap Snippets",
 		"Vintageous",
 		"AutoHotkey",
+		"BracketHighlighter",
 		"CTags",
 		"Emmet Css Snippets",
 		"Emmet",
@@ -21,8 +23,8 @@
 		"RailsCasts Colour Scheme",
 		"Theme - Soda",
 		"Twitter Bootstrap Snippets",
-		"Vintageous",
 		"AutoHotkey",
+		"BracketHighlighter",
 		"CTags",
 		"Emmet Css Snippets",
 		"Emmet",
@@ -44,6 +46,10 @@
 		"Twitter Bootstrap Snippets",
 		"Vintageous"
 	],
-	"startup_sec": 0.2326725,
+	"startup_sec": 0.1797725,
+	"syntax":
+	{
+		"JSON": 8
+	},
 	"time": 1386064968
 }
