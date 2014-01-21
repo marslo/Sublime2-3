@@ -1,0 +1,494 @@
+{
+	"folder_history":
+	[
+		"/C/Marslo/Tools/Git"
+	],
+	"last_version": 3059,
+	"last_window_id": 5,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 482.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 63.0,
+				"selected_items":
+				[
+					[
+						"pcin",
+						"Package Control: Install Package"
+					],
+					[
+						"pcli",
+						"Package Control: List Packages"
+					],
+					[
+						"packagein",
+						"Package Control: Install Package"
+					],
+					[
+						"packinsta",
+						"Package Control: Install Package"
+					],
+					[
+						"pcadd",
+						"Package Control: Add Channel"
+					],
+					[
+						"packageadd",
+						"Package Control: Add Repository"
+					]
+				],
+				"width": 386.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Marslo/Tools/Git/marslo-theme/README.md",
+				"/C/Users/xjiaoli/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"packag",
+					"soda",
+					"marslo_classic_tab",
+					"soda",
+					"Soda Dark",
+					"Widget",
+					"Widget - Soda Dark",
+					"Theme - Soda",
+					"/Soda Dark/",
+					"Theme - Soda",
+					"/Soda Dark/",
+					"Theme - Soda",
+					"soda_classic_tabs",
+					"soda",
+					"/Soda Dark/",
+					"Theme - Soda",
+					"soda",
+					"eme - Marslo",
+					"Theme - Soda",
+					"soda",
+					"copyCurrentUrl"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"marslo",
+					"Marslo",
+					"Theme - Marslo",
+					"/Marslo/",
+					"Theme - Marslo",
+					"/Marslo/",
+					"Theme - Marslo",
+					"/Marslo/",
+					"Theme - Marslo"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 223.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 916.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Marslo/Tools/Git/WindowsStuff/README.md",
+					"settings":
+					{
+						"buffer_size": 1113,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"pcre",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: lis",
+						"Package Control: List Packages"
+					],
+					[
+						"pcin",
+						"Package Control: Install Package"
+					],
+					[
+						"pcli",
+						"Package Control: List Packages"
+					],
+					[
+						"packagein",
+						"Package Control: Install Package"
+					],
+					[
+						"packinsta",
+						"Package Control: Install Package"
+					],
+					[
+						"pcadd",
+						"Package Control: Add Channel"
+					],
+					[
+						"packageadd",
+						"Package Control: Add Repository"
+					]
+				],
+				"width": 378.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/xjiaoli/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Marslo/Tools/Git/marslo-theme/README.md"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"packag",
+					"soda",
+					"marslo_classic_tab",
+					"soda",
+					"Soda Dark",
+					"Widget",
+					"Widget - Soda Dark",
+					"Theme - Soda",
+					"/Soda Dark/",
+					"Theme - Soda",
+					"/Soda Dark/",
+					"Theme - Soda",
+					"soda_classic_tabs",
+					"soda",
+					"/Soda Dark/",
+					"Theme - Soda",
+					"soda",
+					"eme - Marslo",
+					"Theme - Soda",
+					"soda",
+					"copyCurrentUrl"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"marslo",
+					"Marslo",
+					"Theme - Marslo",
+					"/Marslo/",
+					"Theme - Marslo",
+					"/Marslo/",
+					"Theme - Marslo",
+					"/Marslo/",
+					"Theme - Marslo"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "C:\\Marslo\\Tools\\Git"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Marslo/Tools/Git/WindowsStuff/README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1113,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										381,
+										381
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"vintage":
+									{
+										"action": null,
+										"action_digits":
+										[
+										],
+										"cancel_action": false,
+										"expecting_register": false,
+										"expecting_user_input": false,
+										"mode": 2,
+										"motion": null,
+										"motion_digits":
+										[
+										],
+										"next_mode": 2,
+										"next_mode_command": null,
+										"register": null,
+										"stashed_action": null,
+										"user_action_input": null,
+										"user_input": null,
+										"user_motion_input": null,
+										"xpos": 49
+									}
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,2,3,-1,-1,-1,-1,665,125,125,1057",
+			"project": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+				"vintage":
+				{
+					"_cmdline_cd": "C:\\Marslo\\MyProgram\\Sublime Text 3",
+					"last_buffer_search": "marslo"
+				}
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 223.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 4,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

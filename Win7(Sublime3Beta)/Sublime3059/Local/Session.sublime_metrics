@@ -1,0 +1,17 @@
+{
+	"licensed": false,
+	"packages":
+	[
+		"Package Control",
+		"Vintageous"
+	],
+	"startup_sec": 0.3732617,
+	"syntax":
+	{
+		"JSON": 54,
+		"Plain text": 12,
+		"Python": 2,
+		"XML": 4
+	},
+	"time": 1390276657
+}
