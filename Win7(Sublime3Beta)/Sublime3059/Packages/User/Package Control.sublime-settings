@@ -1,6 +1,9 @@
 {
 	"installed_packages":
 	[
+		"Autoprefixer",
+		"JsFormat",
+		"SideBarEnhancements",
 		"Vintageous"
 	]
 }

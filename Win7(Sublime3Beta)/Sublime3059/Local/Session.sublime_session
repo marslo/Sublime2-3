@@ -198,21 +198,17 @@
 			},
 			"buffers":
 			[
-				{
-					"file": "/C/Marslo/Tools/Git/WindowsStuff/README.md",
-					"settings":
-					{
-						"buffer_size": 1113,
-						"line_ending": "Windows"
-					}
-				}
 			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 375.0,
+				"height": 341.0,
 				"selected_items":
 				[
+					[
+						"pcin",
+						"Package Control: Install Package"
+					],
 					[
 						"pcre",
 						"Package Control: Remove Package"
@@ -220,10 +216,6 @@
 					[
 						"Package Control: lis",
 						"Package Control: List Packages"
-					],
-					[
-						"pcin",
-						"Package Control: Install Package"
 					],
 					[
 						"pcli",
@@ -246,7 +238,7 @@
 						"Package Control: Add Repository"
 					]
 				],
-				"width": 378.0
+				"width": 386.0
 			},
 			"console":
 			{
@@ -267,6 +259,13 @@
 			},
 			"file_history":
 			[
+				"/C/Marslo/Job/Software/SSH-KeyGens/xjiaoli/xjiaoli@tieto-msa.txt",
+				"/C/Marslo/Tools/Git/Colorful_CommandLine_Windows/README.md",
+				"/C/Users/xjiaoli/Desktop/desktop.ini",
+				"/C/Marslo/MyProgram/Vim/bundle/marslo.vim/README.md",
+				"/C/Marslo/Tools/Git/WindowsStuff/README.md",
+				"/C/Marslo/Tools/Git/Sublime2-3/README.md",
+				"/C/Marslo/Job/MSA/Configure/dm.bat",
 				"/C/Users/xjiaoli/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/C/Marslo/Tools/Git/marslo-theme/README.md"
 			],
@@ -287,6 +286,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"###",
+					"\n###",
 					"packag",
 					"soda",
 					"marslo_classic_tab",
@@ -341,60 +342,8 @@
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/C/Marslo/Tools/Git/WindowsStuff/README.md",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1113,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										381,
-										381
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"vintage":
-									{
-										"action": null,
-										"action_digits":
-										[
-										],
-										"cancel_action": false,
-										"expecting_register": false,
-										"expecting_user_input": false,
-										"mode": 2,
-										"motion": null,
-										"motion_digits":
-										[
-										],
-										"next_mode": 2,
-										"next_mode_command": null,
-										"register": null,
-										"stashed_action": null,
-										"user_action_input": null,
-										"user_input": null,
-										"user_motion_input": null,
-										"xpos": 49
-									}
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -433,7 +382,7 @@
 			{
 				"height": 0.0
 			},
-			"position": "0,2,3,-1,-1,-1,-1,665,125,125,1057",
+			"position": "0,2,3,-1,-1,-1,-1,658,167,118,1099",
 			"project": "",
 			"replace":
 			{

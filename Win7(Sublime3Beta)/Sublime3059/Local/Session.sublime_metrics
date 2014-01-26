@@ -2,16 +2,11 @@
 	"licensed": false,
 	"packages":
 	[
+		"JsFormat",
 		"Package Control",
+		"SideBarEnhancements",
 		"Vintageous"
 	],
-	"startup_sec": 0.3732617,
-	"syntax":
-	{
-		"JSON": 54,
-		"Plain text": 12,
-		"Python": 2,
-		"XML": 4
-	},
-	"time": 1390276657
+	"startup_sec": 0.5078536,
+	"time": 1390704052
 }
