@@ -1,10 +1,34 @@
-Sublime2-3
+Sublime Configure
 ==========
 
 The configuration about Sublime 2 AND 3 in both linux and windows
 
 # Ubuntu
-## Installation 
+## Configuration:
+- Sublime 2
+    - Copy the `Packages/*` to `$HOME/.config/sublime-text-2/Packages`
+- Sublime 3
+    - Copy `Ubuntu/sublime-text-3/.config/sublime-text-3` to `~/.config`
+
+
+## Packages
+Press `Ctrl + Shift + p` to open **Anything Panel**
+- SublimeCodeIntel
+- Vintage
+- VintageEx
+- [ConvertToUTF8](https://github.com/seanliang/ConvertToUTF8)
+- [GBK Encoding Support](https://github.com/akira-cn/sublime-gbk)
+- [Navigation History](https://github.com/timjrobinson/SublimeNavigationHistory)
+- [GotoLastEdit](https://github.com/khrizt/GotoLastEdit)
+
+### Package Installation
+- [OpenSearchResult](https://github.com/abrookins/OpenSearchResult)
+    <pre><code>$ git clone https://github.com/abrookins/OpenSearchResult.git ~/.config/sublime-text-3/Packages</code></pre>
+- [Theme - Marslo](https://github.com/Marslo/marslo-theme)
+    <pre><code>$ cd ~/.config/sublime-text-3/Packages
+    $ git clone https://github.com/Marslo/marslo-theme.git "Theme - Marslo"</code></pre>
+
+## Installation
 - Download: http://www.sublimetext.com/
 - Sublime2 Installation:
 <pre><code># add-apt-repository ppa:webupd8team/sublime-text-2
@@ -59,28 +83,13 @@ EA7E-26838
 ¡ª¨CEND LICENSE¡ª¨C
 </code></pre>
 
-
-## Configuration:
-- Copy the `Packages/*` to `$HOME/.config/sublime-text-2/Packages`
-
-## Installed Packages    
-Press `Ctrl + Shift + p` to open **Anything Panel**
-- SublimeCodeIntel
-- Vintage
-- VintageEx
-- [ConvertToUTF8](https://github.com/seanliang/ConvertToUTF8)
-- [GBK Encoding Support](https://github.com/akira-cn/sublime-gbk)
-- [Navigation History](https://github.com/timjrobinson/SublimeNavigationHistory)
-- [GotoLastEdit](https://github.com/khrizt/GotoLastEdit)
-- [OpenSearchResult](https://github.com/abrookins/OpenSearchResult)
-
 # Windows (Win7)
 ## Installation
 - Download(Sublime3Beta): http://www.sublimetext.com/3
 - Package Control Installation (Reference: http://wbond.net/sublime_packages/package_control/installation#ST3):
     - Installation by manually:
         - Download git
-        - Clone https://github.com/wbond/sublime_package_control.git as "Package Control" in foler **%appdata%\Sublime Text 3\Packages**    
+        - Clone https://github.com/wbond/sublime_package_control.git as "Package Control" in foler **%appdata%\Sublime Text 3\Packages**
         For Example: <pre><code>$ cd /c/user/\<LOGINNAME\>/AppData/Roaming/Sublime\ Text\ 3/Packages
         $ git clone https://github.com/wbond/sublime_package_control.git "Package Control"
         $ cd "Package Control"
@@ -89,7 +98,7 @@ Press `Ctrl + Shift + p` to open **Anything Panel**
     - Installation by automation:
         - <code>ctrl + `</code>
         - Input:
-        <pre><code>import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) 
+        <pre><code>import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())
         </code></pre>
 
 ## Use specified configurations and themes:
@@ -130,4 +139,3 @@ Press `Ctrl + Shift + p` to open **Anything Panel**
 ![Ubuntu_Sublime3](https://github.com/woainvzu/Sublime2and3_Config_Marslo/blob/master/Screenshot/sublime3screenshot_Marslo.png?raw=true)
 ## Windows:
 ![Sublime3BetaWin7](https://github.com/woainvzu/Sublime2_Config_Marslo/blob/master/Screenshot/Sublime3win7.png?raw=true)
-
