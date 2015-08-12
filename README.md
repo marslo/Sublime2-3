@@ -44,7 +44,9 @@ $ sudo apt-get sublime-text-dev
     - For Sublime3:
         - Press <code>Ctrl + `</code>
         - Input the following code and press `Enter`:
-        <pre><code>import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())
+        --<pre><code>import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())
+        </code></pre>--
+        <pre><code>import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)
         </code></pre>
         - Older method:
         <pre><code>$ cd Packages/
@@ -68,7 +70,7 @@ $ sudo apt-get sublime-text-dev
 :x
 </code></pre>
 - Open **Sublime** -> **Help** -> **Enter License**, and paste following contents [ALL of them]:
-<pre><code>¡ª¨CBEGIN LICENSE¡ª¨C
+<pre><code>Â¡ÂªÂ¨CBEGIN LICENSEÂ¡ÂªÂ¨C
 hiwanz
 Unlimited User License
 EA7E-26838
@@ -80,7 +82,7 @@ EA7E-26838
 1DAB52730F6CADDE701BF3BE03C34EF2
 85E053D2B5E16502F4B009DE413591DE
 0840D6E2CBF0A3049E2FAD940A53FF67
-¡ª¨CEND LICENSE¡ª¨C
+Â¡ÂªÂ¨CEND LICENSEÂ¡ÂªÂ¨C
 </code></pre>
 
 # Windows (Win7)
